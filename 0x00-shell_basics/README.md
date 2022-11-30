@@ -8,3 +8,4 @@ the ls -na script  displays current directory contents in long format, with user
 mkdir /tmp/myfirstdirectory creates the two directories
 mv moves files and directories
 rm deletes files
+rm -r deletes directories
