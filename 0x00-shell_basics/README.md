@@ -14,3 +14,4 @@ ls -al . .. /boot  lists all files (even ones with names beginning with a period
 file /tmp/iamafile prints the type of the file named iamafile
 ln -s /bin/ls __ls__ Creates a symbolic link to /bin/ls, named __ls__.
 cp -rua *.html ../ Creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+mv [A-Z]* /tmp/u Creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u
