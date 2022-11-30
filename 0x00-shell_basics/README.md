@@ -9,3 +9,4 @@ mkdir /tmp/myfirstdirectory creates the two directories
 mv moves files and directories
 rm deletes files
 rm -r deletes directories
+cd - changes the working directory to the previous one
