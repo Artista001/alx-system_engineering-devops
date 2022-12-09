@@ -4,4 +4,4 @@ cat /etc/passwd displays the contents of the file
 tail displays the last ten lines of a file
 head -10 displays the first ten lines of a file
 head --lines=3 iacta | tail --lines=1
-echo "Best School" > \\\\\\\\'\"Best\ School\"\\\'\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)Writes a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) Writes a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
