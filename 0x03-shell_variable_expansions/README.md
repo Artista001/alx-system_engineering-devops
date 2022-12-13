@@ -1,1 +1,1 @@
-The scripts in this repo contain information to shell, init files, variables and expansions
+0x03-shell_variables_expansions
