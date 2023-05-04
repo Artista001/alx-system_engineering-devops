@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script displays litsening ports, also the PID and the name of the project to which each socket belongs
+
+netstat -lp
